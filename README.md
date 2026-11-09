@@ -1,4 +1,4 @@
-# Stalcraft Wiki
+# STALZONE Wiki (formerly Stalcraft Wiki)
 
 The most visited fan site for the game STALZONE (formerly STALCRAFT): item database, interactive map, auction price history, calculators and player accounts.
 
@@ -14,7 +14,7 @@ The most visited fan site for the game STALZONE (formerly STALCRAFT): item datab
 | Team | Two co-founders, no managers: we plan, code, release and run the infrastructure ourselves |
 | My code | ~2,000 commits across 35 repositories (wiki, marketplace, parsers, bots) |
 
-![screenshot](https://github.com/user-attachments/assets/faaa18ba-4cea-4e94-9a3b-fb9166ec0517)
+![Home page with the calculators](images/home.jpg)
 
 ## What I built
 - Frontend: Next.js with React, TanStack Query, Zustand, Tailwind and Radix UI.
@@ -23,7 +23,9 @@ The most visited fan site for the game STALZONE (formerly STALCRAFT): item datab
 - Accounts: profiles, public pages, Discord, EXBO and Telegram linking, deal notifications.
 - Collaborative editing with TipTap and Yjs, Sentry tracing, Umami analytics, horizontal-scaling tests for Next.js.
 
-![screenshot](https://github.com/user-attachments/assets/cb6c9d4a-429f-435b-915e-d9ced496d57f)
+![Interactive map of the North Zone](images/map.jpg)
+![Weapon catalog](images/weapons.jpg)
+![Public builds from the build calculator](images/builds.jpg)
 
 ## Data pipeline
 - Game-data parser: items, barter recipes, icons uploaded to a CDN, our own item catalog with stable IDs.
@@ -48,5 +50,9 @@ The most visited fan site for the game STALZONE (formerly STALCRAFT): item datab
 | Infrastructure | Docker, GitHub Actions, nginx, Angie, Caddy, Cloudflare, Portainer, CrowdSec, VPN |
 | Observability | Sentry, Prometheus, Grafana, Loki, Alertmanager, Umami |
 
-![](https://github.com/user-attachments/assets/d1f48f54-0bc8-474c-aab3-48f32d454062)
-![](https://github.com/user-attachments/assets/f1fa349c-1949-4dff-876c-80361729f49c)
+## More screenshots
+Arsenal reputation table with live auction prices, player-made tier lists and player search with stats:
+
+![Arsenal reputation](images/arsenal.jpg)
+![Tier lists](images/tier.jpg)
+![Player search](images/chars.jpg)
