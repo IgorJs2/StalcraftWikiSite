@@ -2,7 +2,7 @@
 
 The most visited fan site for the game STALZONE (formerly STALCRAFT): item database, interactive map, auction price history, calculators and player accounts.
 
-[stalzone.wiki](https://stalzone.wiki) (formerly stalcraft.wiki; the game was renamed from STALCRAFT to STALZONE) · [Discord](https://discord.gg/YGnhb2UD9E)
+[stalzone.wiki](https://stalzone.wiki/en) (formerly stalcraft.wiki; the game was renamed from STALCRAFT to STALZONE) · [Discord](https://discord.gg/YGnhb2UD9E)
 
 > Source code is private (Stalcraft-Dev-Team). This repository describes the project and my role.
 
