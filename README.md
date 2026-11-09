@@ -1,15 +1,15 @@
-# 🧭 Stalcraft Wiki
+# Stalcraft Wiki
 
-**The most visited fan site for the game STALZONE (formerly STALCRAFT)**: item database, interactive map, auction price history, calculators and player accounts.
+The most visited fan site for the game STALZONE (formerly STALCRAFT): item database, interactive map, auction price history, calculators and player accounts.
 
-🌐 [stalzone.wiki](https://stalzone.wiki) (formerly stalcraft.wiki — the game was renamed STALCRAFT → STALZONE) · 💬 [Discord](https://discord.gg/YGnhb2UD9E)
+[stalzone.wiki](https://stalzone.wiki) (formerly stalcraft.wiki; the game was renamed from STALCRAFT to STALZONE) · [Discord](https://discord.gg/YGnhb2UD9E)
 
 > Source code is private (Stalcraft-Dev-Team). This repository describes the project and my role.
 
 ## At a glance
 | | |
 |---|---|
-| My role | **Co-founder and full-stack developer**, Stalcraft LAB, Apr 2023 – present |
+| My role | Co-founder and full-stack developer, Stalcraft LAB, Apr 2023 – present |
 | Traffic | 5–7k concurrent users · 40–50k per day · ~1M unique visitors last year |
 | Team | Two co-founders, no managers: we plan, code, release and run the infrastructure ourselves |
 | My code | ~2,000 commits across 35 repositories (wiki, marketplace, parsers, bots) |
@@ -17,8 +17,8 @@
 ![screenshot](https://github.com/user-attachments/assets/faaa18ba-4cea-4e94-9a3b-fb9166ec0517)
 
 ## What I built
-- **Frontend:** Next.js with React, TanStack Query, Zustand, Tailwind and Radix UI.
-- **Backend:** Django REST Framework with PostgreSQL and pgbouncer.
+- Frontend: Next.js with React, TanStack Query, Zustand, Tailwind and Radix UI.
+- Backend: Django REST Framework with PostgreSQL and pgbouncer.
 - Item database, interactive Leaflet map (markers, areas, shapes), auction and price history, orders, comments, and a barter calculator that uses live auction prices.
 - Accounts: profiles, public pages, Discord, EXBO and Telegram linking, deal notifications.
 - Collaborative editing with TipTap and Yjs, Sentry tracing, Umami analytics, horizontal-scaling tests for Next.js.
