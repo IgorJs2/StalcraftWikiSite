@@ -9,7 +9,7 @@ The most visited fan site for the game STALZONE (formerly STALCRAFT): item datab
 ## At a glance
 | | |
 |---|---|
-| My role | Co-founder and full-stack developer, Stalcraft LAB, Apr 2023 – present |
+| My role | Co-founder and full-stack developer, Stalcraft LAB, Apr 2023 – Oct 2026 |
 | Traffic | 5–7k concurrent users · 40–50k per day · ~1M unique visitors last year |
 | Team | Two co-founders, no managers: we plan, code, release and run the infrastructure ourselves |
 | My code | ~2,000 commits across 35 repositories (wiki, marketplace, parsers, bots) |
